@@ -9,5 +9,6 @@ These are the command lines to bring up some popular Windows Admin Programs (rat
 | Certificate Manager (Computer)   | `certlm.msc`   |              |
 | Certificate Manager (Local User) | `certmgr.msc`  |              |
 | Disk Management                  | `diskmgmt.msc` |              |
+| Event Viewer                     | `eventvwr.msc` |              |
 | Group Policy Editor              | `gpedit.msc`   |              |
 | Local Users and Groups           | `lusrmgr.msc`  |              |
