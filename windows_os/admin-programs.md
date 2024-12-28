@@ -12,4 +12,4 @@ These are the command lines to bring up some popular Windows Admin Programs (rat
 | Event Viewer                     | `eventvwr.msc` |              |
 | Group Policy Editor              | `gpedit.msc`   |              |
 | Local Users and Groups           | `lusrmgr.msc`  |              |
-| Services Manager                 | `services.msc  |              |
+| Services Manager                 | `services.msc` |              |
