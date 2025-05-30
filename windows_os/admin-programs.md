@@ -13,3 +13,4 @@ These are the command lines to bring up some popular Windows Admin Programs (rat
 | Group Policy Editor              | `gpedit.msc`   |              |
 | Local Users and Groups           | `lusrmgr.msc`  |              |
 | Services Manager                 | `services.msc` |              |
+| System Properties                | `sysdm.cpl     | This is the item with a tab for viewing/setting environment variables |
